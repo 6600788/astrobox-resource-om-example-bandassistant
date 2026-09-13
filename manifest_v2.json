@@ -1,0 +1,35 @@
+{
+  "item": {
+    "id": "om.example.bandassistant",
+    "restype": "quick_app",
+    "name": "凡人修仙_v1.3.0",
+    "description": "轻量修仙放置游戏。点按修炼、突破境界；金丹后渡劫连点；采药炼丹、养灵宠、探秘境、逛坊市、升洞府。适配手环10 胶囊屏。",
+    "preview": [
+      "media/Vela_Virtual_Device-2026-09-13-17-41-47.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/封面_凡人修仙_1536x1024.jpg",
+    "author": [
+      {
+        "name": "bandbbs_4563345",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.3.0",
+      "file_name": "downloads/凡人修仙_v1.3.0_小米手环10.rpk",
+      "versionCode": 4
+    },
+    "xmb10nfc": {
+      "version": "1.3.0",
+      "file_name": "downloads/凡人修仙_v1.3.0_小米手环10.rpk",
+      "versionCode": 4
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
